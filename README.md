@@ -22,15 +22,3 @@
 
 ![Downloads](https://img.shields.io/github/downloads/luluoliv/clock-js/total) ![Contributors](https://img.shields.io/github/contributors/luluoliv/clock-js?color=dark-green) ![Issues](https://img.shields.io/github/issues/luluoliv/clock-js) ![License](https://img.shields.io/github/license/luluoliv/clock-js) 
 
-## Table Of Contents
-
-* [Built With](#built-with)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
-
-## Built With
-
-Languages:
-- JavaScript
-- HTML
-- CSS
