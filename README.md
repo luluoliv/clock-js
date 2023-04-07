@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/luluoliv/clock-js">
-    <img src="https://cdn-icons-png.flaticon.com/512/61/61227.png" alt="Logo" width="80" height="80">
+    <img style="color: white"src="https://cdn-icons-png.flaticon.com/512/61/61227.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Clock</h3>
