@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/luluoliv/clock-js">
-    <a href="https://www.citypng.com/photo/20768/gray-clock-icon-symbol-transparent-png" title="Gray Clock Icon Symbol Transparent PNG"><img src="https://www.citypng.com/public/uploads/preview/gray-clock-icon-symbol-transparent-png-11639648068jmctw3srro.png" /></a>
+    <img src="https://www.citypng.com/photo/21542/time-clock-white-icon-png-image"/>
   </a>
 
   <h3 align="center">Clock</h3>
