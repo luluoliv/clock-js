@@ -12,7 +12,7 @@
     <a href="https://github.com/luluoliv/clock-js"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/luluoliv/clock-js">View Demo</a>
+    <a href="https://clock-js-rouge.vercel.app/">View Demo</a>
     .
     <a href="https://github.com/luluoliv/clock-js/issues">Report Bug</a>
     .
