@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/luluoliv/clock-js">
-    <img src="https://www.citypng.com/photo/21542/time-clock-white-icon-png-image"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Clock.gif"/>
   </a>
 
   <h3 align="center">Clock</h3>
