@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/luluoliv/clock-js">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Clock.gif"/>
+    <img height="200px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Clock.gif"/>
   </a>
 
   <h3 align="center">Clock</h3>
